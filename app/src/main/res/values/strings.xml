@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ECV Admin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="button">click button</string>
+    <string name="dialogTitle">Delete this product?</string>
+    <string name="dialogMessage">This is permanent and can\'t be undone</string>
+</resources>

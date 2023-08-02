@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676828521214",
+    "project_id": "vb-kotlin",
+    "storage_bucket": "vb-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676828521214:android:580245c4e532c2d0953baf",
+        "android_client_info": {
+          "package_name": "com.example.ecomadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676828521214-711d03s3geosjit27blorlm2kh78o81s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEQkuadjSj8W4wnRChCChJxhz1T63ijSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676828521214-711d03s3geosjit27blorlm2kh78o81s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
